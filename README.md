@@ -74,20 +74,20 @@ python main.py
 ```
 ---
 
-## 🔍 Example Usage
+## 🔍 **Example Usage**
 ✅ Add a new transaction
 Enter transaction details when prompted (date, amount, category, and description).
 --
 
-## 📊 View transactions and summary within a date range
+## 📊 **View transactions and summary within a date range**
 Enter a start and end date to filter transactions.
 View a summary of total income, total expenses, and net savings.
 --
-## 📈 Visualize financial data
+## 📈 **Visualize financial data**
 Choose to generate a line chart displaying income and expenses over time.
 --
 
-## 🔮 Future Enhancements
+## 🔮 **Future Enhancements**
 🚀 Implement a GUI for better user experience
 📂 Support for additional financial categories
 📑 Export summary reports in different formats (PDF, Excel)
