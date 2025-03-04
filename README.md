@@ -64,7 +64,7 @@ Ensure you have **Python installed** on your system. The application requires th
 📌 **Install dependencies using pip:**  
 ```sh
 pip install pandas matplotlib
-
+```
 
 
 ## 🚀 Running the Application  
