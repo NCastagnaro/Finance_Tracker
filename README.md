@@ -70,15 +70,14 @@ pip install pandas matplotlib
 ## 🚀 Running the Application  
 To start tracking your finances, run:  
 
-```sh
-python main.py
 🔍 Example Usage
-✅ Add a new transaction:
+✅ Add a new transaction
 Enter transaction details when prompted (date, amount, category, and description).
-📊 View transactions and summary within a date range:
+
+📊 View transactions and summary within a date range
 Enter a start and end date to filter transactions.
 View a summary of total income, total expenses, and net savings.
-📈 Visualize financial data:
+📈 Visualize financial data
 Choose to generate a line chart displaying income and expenses over time.
 🔮 Future Enhancements
 🚀 Implement a GUI for better user experience
