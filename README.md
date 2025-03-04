@@ -69,6 +69,9 @@ pip install pandas matplotlib
 
 ## 🚀 Running the Application  
 To start tracking your finances, run:  
+```sh
+python main.py
+```
 ---
 
 🔍 Example Usage
