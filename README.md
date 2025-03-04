@@ -78,18 +78,17 @@ python main.py
 ✅ Add a new transaction
 Enter transaction details when prompted (date, amount, category, and description).
 
---
 
 ## 📊 **View transactions and summary within a date range**
 Enter a start and end date to filter transactions.
 View a summary of total income, total expenses, and net savings.
 
---
+
 
 ## 📈 **Visualize financial data**
 Choose to generate a line chart displaying income and expenses over time.
 
---
+
 
 ## 🔮 **Future Enhancements**
 🚀 Implement a GUI for better user experience
